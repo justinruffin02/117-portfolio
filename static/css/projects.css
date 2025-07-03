@@ -1,0 +1,16 @@
+.project-card{
+  width: 25rem;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0.5rem;
+}
+
+.project-skill-list{
+  margin-top: 2rem;
+  flex-wrap: wrap;
+  gap: 2rem;
+} 
+
+img{
+    width: 100%;
+}
